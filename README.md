@@ -61,3 +61,5 @@ Now when you visit **http://localhost:8080** from your web browser you will be a
 Couchbase - [http://www.couchbase.com](http://www.couchbase.com)
 
 AngularJS - [http://www.angularjs.org](http://www.angularjs.org)
+
+## comments by chen
